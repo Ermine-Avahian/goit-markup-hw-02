@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
 
 a {
@@ -36,12 +37,14 @@ ul {
 .header-menu-link:focus {
   color: #404bbf;
 }
+.header-contacts {
+  font-style: normal;
+}
 .contacts-list-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 .contacts-list-link:hover,
 .contacts-list-link:focus {
@@ -111,9 +114,9 @@ ul {
   text-transform: capitalize;
 }
 .team-list {
-  background: #fff;
 }
 .team-item {
+  background: #ffffff;
 }
 .team-image {
 }
