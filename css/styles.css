@@ -51,7 +51,9 @@ ul {
 /*----------- MAIN-------- */
 
 /*--------- SECTION --------*/
-
+.main {
+  background-color: #2e2f42;
+}
 .hero-title {
   font-weight: 700;
   font-size: 56px;
